@@ -1,5 +1,5 @@
 # -- Cloud service being deployed on (example: `aws`, `azure`, `do`, `gcp`, `other`).
-cloud:
+cloud: "other"
 
 image:
   # -- PostHog image repository to use.
